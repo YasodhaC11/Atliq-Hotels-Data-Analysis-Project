@@ -18,9 +18,13 @@ The goal is to provide actionable business insights and develop a strong analyti
 ## Datasets
 The project contains five datasets:
 **fact_bookings.csv** -	Booking-level data (check-in/out, revenue, guests, status)
+
 **fact_aggregated_bookings.csv** -	Daily aggregated bookings with room and property details
+
 **dim_hotels.csv** -	Hotel-level information including city and category
+
 **dim_rooms.csv** -	Room category and capacity information
+
 **dim_date.csv** -Date dimension (day, week, month, year, weekend flag)
 
 ## Data Cleaning & Preprocessing
