@@ -46,7 +46,7 @@ Key cleaning steps performed:
    git clone (https://github.com/YasodhaC11/Atliq-Hotels-Data-Analysis-Project.git)
    
 ## Project Structure
-Atliq-Hotels-Data-Analysis-Project/
+```Atliq-Hotels-Data-Analysis-Project/
 ├── datasets/                                    # Input datasets
 │   ├── dim_rooms.csv
 │   ├── new_data_august.csv
@@ -54,19 +54,10 @@ Atliq-Hotels-Data-Analysis-Project/
 │   ├── dim_date.csv
 │   ├── fact_aggregated_bookings.csv
 │   ├── fact_bookings.csv
-│
-├── notebooks/                                  # Jupyter Notebook for analysis
-│   ├── Hospitality_Analysis.ipynb
-│
+├── Hospitality_Analysis.ipynb                  # Jupyter Notebook for analysis
 ├── requirements.txt                            # Project dependencies
 └── README.md                                   # Project documentation
 
 ## Conclusion
 This project showcases real-world hotel performance analysis using structured datasets.
 The insights generated can help optimize revenue, enhance customer experience, and improve operational decision-making.
-
-
-
-
-
-
