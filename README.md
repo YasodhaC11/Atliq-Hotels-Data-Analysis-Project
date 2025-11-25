@@ -46,8 +46,8 @@ Key cleaning steps performed:
    git clone (https://github.com/YasodhaC11/Atliq-Hotels-Data-Analysis-Project.git)
    
 ## Project Structure
-atliqo-hotels-data-analysis/
-├── data/                                       # Input datasets
+Atliq-Hotels-Data-Analysis-Project/
+├── datasets/                                    # Input datasets
 │   ├── dim_rooms.csv
 │   ├── new_data_august.csv
 │   ├── dim_hotels.csv
@@ -56,7 +56,7 @@ atliqo-hotels-data-analysis/
 │   ├── fact_bookings.csv
 │
 ├── notebooks/                                  # Jupyter Notebook for analysis
-│   ├── AtliQo Hotels Data Analysis Project.ipynb
+│   ├── Hospitality_Analysis.ipynb
 │
 ├── requirements.txt                            # Project dependencies
 └── README.md                                   # Project documentation
