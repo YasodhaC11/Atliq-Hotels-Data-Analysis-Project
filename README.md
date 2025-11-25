@@ -57,6 +57,7 @@ Key cleaning steps performed:
 ├── Hospitality_Analysis.ipynb                  # Jupyter Notebook for analysis
 ├── requirements.txt                            # Project dependencies
 └── README.md                                   # Project documentation
+```
 
 ## Conclusion
 This project showcases real-world hotel performance analysis using structured datasets.
