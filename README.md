@@ -54,7 +54,7 @@ Key cleaning steps performed:
 │   ├── dim_date.csv
 │   ├── fact_aggregated_bookings.csv
 │   ├── fact_bookings.csv
-├── Hospitality_Analysis.ipynb                  # Jupyter Notebook for analysis
+├── Hospitality Analysis.ipynb                  # Jupyter Notebook for analysis
 ├── requirements.txt                            # Project dependencies
 └── README.md                                   # Project documentation
 ```
