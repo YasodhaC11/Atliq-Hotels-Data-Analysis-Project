@@ -43,7 +43,7 @@ Key cleaning steps performed:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/har-cnn-lstm-streamlit.git](https://github.com/YasodhaC11/Atliq-Hotels-Data-Analysis-Project.git)
+   git clone (https://github.com/YasodhaC11/Atliq-Hotels-Data-Analysis-Project.git)
    
 ## Project Structure
 atliqo-hotels-data-analysis/
