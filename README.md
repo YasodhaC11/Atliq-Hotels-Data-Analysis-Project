@@ -17,15 +17,11 @@ The goal is to provide actionable business insights and develop a strong analyti
 
 ## Datasets
 The project contains five datasets:
-**fact_bookings.csv** -	Booking-level data (check-in/out, revenue, guests, status)
-
-**fact_aggregated_bookings.csv** -	Daily aggregated bookings with room and property details
-
-**dim_hotels.csv** -	Hotel-level information including city and category
-
-**dim_rooms.csv** -	Room category and capacity information
-
-**dim_date.csv** -Date dimension (day, week, month, year, weekend flag)
+- **fact_bookings.csv** -	Booking-level data (check-in/out, revenue, guests, status)
+- **fact_aggregated_bookings.csv** -	Daily aggregated bookings with room and property details
+- **dim_hotels.csv** -	Hotel-level information including city and category
+- **dim_rooms.csv** -	Room category and capacity information
+- **dim_date.csv** -Date dimension (day, week, month, year, weekend flag)
 
 ## Data Cleaning & Preprocessing
 Key cleaning steps performed:
@@ -36,13 +32,13 @@ Key cleaning steps performed:
 - Filtered inconsistent room category data for accurate revenue analysis.
 
 ## Project Workflow
-1.Import data and explore structure
-2.Clean and preprocess inconsistent values
-3.Merge datasets using keys (date, room_id, hotel_id)
-4.Perform Exploratory Data Analysis (EDA)
-5.Group results by city, property, room type, month, and platform
-6.Visualize revenue, occupancy, ratings, and booking patterns
-7.Generate business insights
+- 1.Import data and explore structure
+- 2.Clean and preprocess inconsistent values
+- 3.Merge datasets using keys (date, room_id, hotel_id)
+- 4.Perform Exploratory Data Analysis (EDA)
+- 5.Group results by city, property, room type, month, and platform
+- 6.Visualize revenue, occupancy, ratings, and booking patterns
+- 7.Generate business insights
 
 ## Installation
 1. Clone the repository:
