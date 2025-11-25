@@ -4,12 +4,12 @@ A comprehensive data analysis project focused on understanding the performance, 
 
 ## Table of Contents
 
-- [Project Overview](#Project Overview)
-- [Datasets](#Datasets)
-- [Data Cleaning & Preprocessing](#Data Cleaning & Preprocessing)
-- [Project Workflow](#Project Workflow)
-- [Project Structure](#Project Structure)
-- [Conclusion](#Conclusion)
+- [Project Overview](#project-overview)
+- [Datasets](#datasets)
+- [Data Cleaning & Preprocessing](#data-cleaning--preprocessing)
+- [Project Workflow](#project-workflow)
+- [Project Structure](#project-structure)
+- [Conclusion](#conclusion)
 
 ## Project Overview
 This project analyzes multiple dimensions of hotel performance such as revenue, occupancy, booking trends, cancellations, customer ratings, and booking platforms.
@@ -46,16 +46,20 @@ Key cleaning steps performed:
    git clone https://github.com/yourusername/har-cnn-lstm-streamlit.git
    
 ## Project Structure
-├── data/
-│   ├── fact_bookings.csv
-│   ├── fact_aggregated_bookings.csv
-│   ├── dim_date.csv
+atliqo-hotels-data-analysis/
+├── data/                                       # Input datasets
+│   ├── dim_rooms.csv
+│   ├── new_data_august.csv
 │   ├── dim_hotels.csv
-│   └── dim_rooms.csv
-├── notebooks/
-│   └── hotels_analysis.ipynb
-├── README.md
-└── requirements.txt
+│   ├── dim_date.csv
+│   ├── fact_aggregated_bookings.csv
+│   ├── fact_bookings.csv
+│
+├── notebooks/                                  # Jupyter Notebook for analysis
+│   ├── AtliQo Hotels Data Analysis Project.ipynb
+│
+├── requirements.txt                            # Project dependencies
+└── README.md                                   # Project documentation
 
 ## Conclusion
 This project showcases real-world hotel performance analysis using structured datasets.
